@@ -9,7 +9,7 @@ const config = {
     ignore_traits: ['date'], 
     sqlite_file_name: 'database.sqlite',
     ga: 'G-BW69Z04YTP',
-    main_og_image: 'https://i.ibb.co/sgLtNTw/Evbirdss-loghino.png',
+    main_og_image: '',
     item_path_name: 'Bare_Bones',
     page_item_num: 60,
     content_image_is_video: false,
