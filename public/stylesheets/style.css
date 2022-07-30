@@ -81,7 +81,7 @@ body {
   font-family: "Akbar";
   line-height: 1;
   
-  background: rgb(0, 8, 11) url("https://i.ibb.co/dKZzd0N/background-bones.png") no-repeat fixed center;
+  background: rgb(0, 8, 11);
   
   color: #cbbd8c;
   font-weight: var(--font-weight-base);
