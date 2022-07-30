@@ -1,5 +1,5 @@
 const config = {
-    app_name: 'Bare_Bones',
+    app_name: 'Bare_Bones Rarity',
     app_description: '222 NFTs that are going to make you rich',
     collection_file_name: 'collection.json',
     collection_contract_address: '0xF2E8a8509AB69aF07c7b3636a1dB8d2B600e0572',
