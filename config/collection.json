@@ -1,0 +1,8440 @@
+[
+  {
+    "edition": 1,
+    "name": "Bare Bones #1",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sorta Orange"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Icy Blue"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Donald Suit"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Black Dreads"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Clout Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 2,
+    "name": "Bare Bones #2",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://2.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lively Grey"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Goldie"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 3,
+    "name": "Bare Bones #3",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://3.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lively Grey"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "black chain n hoodie"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Headphones"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cyborg"
+      }
+    ]
+  },
+  {
+    "edition": 4,
+    "name": "Bare Bones #4",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://4.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Goblin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Aviators"
+      }
+    ]
+  },
+  {
+    "edition": 5,
+    "name": "Bare Bones #5",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://5.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Female Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Donald Suit"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Looking"
+      }
+    ]
+  },
+  {
+    "edition": 6,
+    "name": "Bare Bones #6",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://6.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Clouds"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Grey skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Dark Green Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Black Dreads"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 7,
+    "name": "Bare Bones #7",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://7.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Starry Night"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Blue Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Green beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty 2"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty 3"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Robot Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 8,
+    "name": "Bare Bones #8",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://8.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Flipped Head"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Flipped Head"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Flipped Head"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Flipped Head"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Flipped Head"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Flipped Head"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Flipped Head"
+      }
+    ]
+  },
+  {
+    "edition": 9,
+    "name": "Bare Bones #9",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://9.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Starry Night"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Looking"
+      }
+    ]
+  },
+  {
+    "edition": 10,
+    "name": "Bare Bones #10",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://10.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lively Grey"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green Goblin"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Open White Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Green Beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Heart Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 11,
+    "name": "Bare Bones #11",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://11.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Trippy"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Grey Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "black hoodie n chain"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "black hoodie n chain"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 12,
+    "name": "Bare Bones #12",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://12.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lively Grey"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Open White Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Robot Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 13,
+    "name": "Bare Bones #13",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://13.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Flames"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Burning Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 14,
+    "name": "Bare Bones #14",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://14.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Boney Rasta"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Boney Rasta"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Boney Rasta"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Boney Rasta"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Boney Rasta"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Boney Rasta"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Boney Rasta"
+      }
+    ]
+  },
+  {
+    "edition": 15,
+    "name": "Bare Bones #15",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://15.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Golbin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Blue Flames"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 16,
+    "name": "Bare Bones #16",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://16.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sorta Orange"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Looking"
+      }
+    ]
+  },
+  {
+    "edition": 17,
+    "name": "Bare Bones #17",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://17.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Pirate Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 18,
+    "name": "Bare Bones #18",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://18.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Boneissance"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Boneissance"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Boneissance"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Boneissance"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Boneissance"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Boneissance"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Boneissance"
+      }
+    ]
+  },
+  {
+    "edition": 19,
+    "name": "Bare Bones #19",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://19.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Goblin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green Goblin"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Mask"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Aviators"
+      }
+    ]
+  },
+  {
+    "edition": 20,
+    "name": "Bare Bones #20",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://20.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Goldie"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 21,
+    "name": "Bare Bones #21",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://21.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "UNC Jersey"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Phone"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Clout Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 22,
+    "name": "Bare Bones #22",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://22.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "King"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "King"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "King"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "King"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "King"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "King"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "King"
+      }
+    ]
+  },
+  {
+    "edition": 23,
+    "name": "Bare Bones #23",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://23.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bonieo"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bonieo"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Bonieo"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bonieo"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bonieo"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Bonieo"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Bonieo"
+      }
+    ]
+  },
+  {
+    "edition": 24,
+    "name": "Bare Bones #24",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://24.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Goblin"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Blonde"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Gum"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cool Shades"
+      }
+    ]
+  },
+  {
+    "edition": 25,
+    "name": "Bare Bones #25",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://25.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "blue hoodie n chain"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Glizzy"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cool Shades"
+      }
+    ]
+  },
+  {
+    "edition": 26,
+    "name": "Bare Bones #26",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://26.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Goblin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Dark Green"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Mic"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Heart Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 27,
+    "name": "Bare Bones #27",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://27.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bonie Girl"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bonie Girl"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Bonie Girl"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bonie Girl"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bonie Girl"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Bonie Girl"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Bonie Girl"
+      }
+    ]
+  },
+  {
+    "edition": 28,
+    "name": "Bare Bones #28",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://28.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bright Purple"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cool Shades"
+      }
+    ]
+  },
+  {
+    "edition": 29,
+    "name": "Bare Bones #29",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://29.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pink Gum"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Guitar"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Looking"
+      }
+    ]
+  },
+  {
+    "edition": 30,
+    "name": "Bare Bones #30",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://30.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Goblin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Cyborg"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "black hoodie n gold chain"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Mask"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cyborg"
+      }
+    ]
+  },
+  {
+    "edition": 31,
+    "name": "Bare Bones #31",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://31.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Golbin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Hoodie"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Headphones"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Liquor"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "3d Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 32,
+    "name": "Bare Bones #32",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://32.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sorta Orange"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Grey Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Donald Suit"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Black Dreads"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Blue Lasers"
+      }
+    ]
+  },
+  {
+    "edition": 33,
+    "name": "Bare Bones #33",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://33.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Goblin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bloddy Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Spear"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Aviators"
+      }
+    ]
+  },
+  {
+    "edition": 34,
+    "name": "Bare Bones #34",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://34.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Weird Red"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Pink Glow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pink Gum"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Robot Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 35,
+    "name": "Bare Bones #35",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://35.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Spider"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Spider"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Spider"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Spider"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Spider"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Spider"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Spider"
+      }
+    ]
+  },
+  {
+    "edition": 36,
+    "name": "Bare Bones #36",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://36.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Goblin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Black Dreads"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Aviators"
+      }
+    ]
+  },
+  {
+    "edition": 37,
+    "name": "Bare Bones #37",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://37.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pink Gum"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 38,
+    "name": "Bare Bones #38",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://38.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bloody"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Axe"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 39,
+    "name": "Bare Bones #39",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://39.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Half Broken"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Open White Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Spear"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 40,
+    "name": "Bare Bones #40",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://40.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Burning Skull"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Open Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 41,
+    "name": "Bare Bones #41",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://41.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Park"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bloody"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Red Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Headphones"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cyborg"
+      }
+    ]
+  },
+  {
+    "edition": 42,
+    "name": "Bare Bones #42",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://42.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Poop Man"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Poop Man"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Poop Man"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Poop Man"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Poop Man"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Poop Man"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Poop Man"
+      }
+    ]
+  },
+  {
+    "edition": 43,
+    "name": "Bare Bones #43",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://43.png",
+    
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sunset Sherbert"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Dark Chocolate Man"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Puffer"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty 1"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "3d Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 44,
+    "name": "Bare Bones #44",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://44.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Clouds"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 45,
+    "name": "Bare Bones #45",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://45.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Red Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Black Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Guitar"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Heart Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 46,
+    "name": "Bare Bones #46",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://46.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "American Pride"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Brown Dreads"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Red Stare"
+      }
+    ]
+  },
+  {
+    "edition": 47,
+    "name": "Bare Bones #47",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://47.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Burning Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "3d Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 48,
+    "name": "Bare Bones #48",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://48.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ScarFace"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "ScarFace"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "ScarFace"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "ScarFace"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "ScarFace"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "ScarFace"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "ScarFace"
+      }
+    ]
+  },
+  {
+    "edition": 49,
+    "name": "Bare Bones #49",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://49.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Grey Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 50,
+    "name": "Bare Bones #50",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://50.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Clown"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "BB4L"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "RockStar"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Axe"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 51,
+    "name": "Bare Bones #51",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://51.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Green Warrior"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "LOOK AT ME"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Mask"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Phone"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 52,
+    "name": "Bare Bones #52",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://52.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bloody"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Blue Puffer"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Robot Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 53,
+    "name": "Bare Bones #53",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://53.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sorta Orange"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Half Broken"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Helmet"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 54,
+    "name": "Bare Bones #54",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://54.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Trippy"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Cyborg"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Headphones"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Red Stare"
+      }
+    ]
+  },
+  {
+    "edition": 55,
+    "name": "Bare Bones #55",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://55.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "American Pride"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "White and Blue"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Donald Suit"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Red Stare"
+      }
+    ]
+  },
+  {
+    "edition": 56,
+    "name": "Bare Bones #56",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://56.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Phone"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 57,
+    "name": "Bare Bones #57",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://57.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Grey Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Mask"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Monocle"
+      }
+    ]
+  },
+  {
+    "edition": 58,
+    "name": "Bare Bones #58",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://58.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Rick"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Blonde"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 59,
+    "name": "Bare Bones #59",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://59.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Park"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Big Black"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Mask"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Guitar"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "3d Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 60,
+    "name": "Bare Bones #60",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://60.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bloody"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Blue Hoodie"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Mask"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Guitar"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 61,
+    "name": "Bare Bones #61",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://61.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sorta Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bright Purple"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Open White Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Carties"
+      }
+    ]
+  },
+  {
+    "edition": 62,
+    "name": "Bare Bones #62",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://62.jpg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lucke Monke"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Lucke Monke"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Lucke Monke"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Lucke Monke"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Lucke Monke"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Lucke Monke"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Lucke Monkes"
+      }
+    ]
+  },
+  {
+    "edition": 63,
+    "name": "Bare Bones #63",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://63.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Grey Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Knicks Drip"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 64,
+    "name": "Bare Bones #64",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://64.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Domestic Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "The Chosen Avatar"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Mask"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 65,
+    "name": "Bare Bones #65",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://65.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Goblin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "black hoodie n chain"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 66,
+    "name": "Bare Bones #66",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://66.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Blunt"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Looking"
+      }
+    ]
+  },
+  {
+    "edition": 67,
+    "name": "Bare Bones #67",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://67.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Green Beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Blunt"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Red Stare"
+      }
+    ]
+  },
+  {
+    "edition": 68,
+    "name": "Bare Bones #68",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://68.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Love Lost"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Love Lost"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Love Lost"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Love Lost"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Love Lost"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Love Lost"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Love Lost"
+      }
+    ]
+  },
+  {
+    "edition": 69,
+    "name": "Bare Bones #69",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://69.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green Goblin"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Construction"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Red Stare"
+      }
+    ]
+  },
+  {
+    "edition": 70,
+    "name": "Bare Bones #70",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://70.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Backwords Pin"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Backwords Pin"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Backwords Pin"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Backwords Pin"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "CBackwords Pin"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Backwords Pin"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Backwords Pin"
+      }
+    ]
+  },
+  {
+    "edition": 71,
+    "name": "Bare Bones #71",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://71.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bloody"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "LOOK AT ME"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Axe"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "3d Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 72,
+    "name": "Bare Bones #72",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://72.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Open White Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Pink Glow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Clout Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 73,
+    "name": "Bare Bones #73",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://73.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Orange Beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 74,
+    "name": "Bare Bones #74",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://74.png",
+  
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sneaker Head 1"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Sneaker Head 1"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Sneaker Head 1"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Sneaker Head 1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Sneaker Head 1"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sneaker Head 1"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Sneaker Head 1"
+      }
+    ]
+  },
+  {
+    "edition": 75,
+    "name": "Bare Bones #75",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://75.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Knicks Drip"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Headphones"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Red Laser"
+      }
+    ]
+  },
+  {
+    "edition": 76,
+    "name": "Bare Bones #76",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://76.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Starry Night"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Dark Chocolate"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Green Warrior"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Construction Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 77,
+    "name": "Bare Bones #77",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://77.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Flames"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Green Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "The Choosen Avatar"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "3d Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 78,
+    "name": "Bare Bones #78",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://78.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Pirate"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Robot Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 79,
+    "name": "Bare Bones #79",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://79.jpg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green Goblin"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 80,
+    "name": "Bare Bones #80",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://80.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Goblin"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "BB4L"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Long Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 81,
+    "name": "Bare Bones #81",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://81.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Domestic Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Goldie"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 82,
+    "name": "Bare Bones #82",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://82.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Weird Red"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Cyborg"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Green Warrior"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pink Gum"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Axe"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 83,
+    "name": "Bare Bones #83",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://83.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Domestic Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Burning Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "The Chosen Avatar"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Mask"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 84,
+    "name": "Bare Bones #84",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://84.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pinky Dots"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Pirate"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cool Shades"
+      }
+    ]
+  },
+  {
+    "edition": 85,
+    "name": "Bare Bones #85",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://85.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "FC Barca Jersey"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 86,
+    "name": "Bare Bones #86",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://86.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Domestic Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Pink Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Pirate"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pink Gum"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Robot Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 87,
+    "name": "Bare Bones #87",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://87.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Domestic Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bloody"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 88,
+    "name": "Bare Bones #88",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://88.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cloudy"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Icy Blue"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 89,
+    "name": "Bare Bones #89",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://89.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lively Grey"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 90,
+    "name": "Bare Bones #90",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://90.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "SneakerHead 2"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "SneakerHead 2"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "SneakerHead 2"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "SneakerHead 2"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "SneakerHead 2"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "SneakerHead 2"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "SneakerHead 2"
+      }
+    ]
+  },
+  {
+    "edition": 91,
+    "name": "Bare Bones #91",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://91.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Gold Bones"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Orange Beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Guitar"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Carties"
+      }
+    ]
+  },
+  {
+    "edition": 92,
+    "name": "Bare Bones #92",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://92.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Park"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Green Warrior"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Abe Lincon Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Phone"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 93,
+    "name": "Bare Bones #93",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://93.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Beach"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Orange Beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Red Stare"
+      }
+    ]
+  },
+  {
+    "edition": 94,
+    "name": "Bare Bones #94",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://94.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Beanie"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Blue Laser"
+      }
+    ]
+  },
+  {
+    "edition": 95,
+    "name": "Bare Bones #95",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://95.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lively Grey"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Grey Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Construction Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 96,
+    "name": "Bare Bones #96",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://96.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "black hoodie n chain"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Vr Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 97,
+    "name": "Bare Bones #97",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://97.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "HeartBreak Season"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "HeartBreak Season"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "HeartBreak Season"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "HeartBreak Season"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "HeartBreak Season"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "HeartBreak Season"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "HeartBreak Season"
+      }
+    ]
+  },
+  {
+    "edition": 98,
+    "name": "Bare Bones #98",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://98.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Good Morning"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Good Morning"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Good Morning"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Good Morning"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Good Morning"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Good Morning"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Good Morning"
+      }
+    ]
+  },
+  {
+    "edition": 99,
+    "name": "Bare Bones #99",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://99.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Cyborg"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Headphones"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Blue Lasers"
+      }
+    ]
+  },
+  {
+    "edition": 100,
+    "name": "Bare Bones #100",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://100.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Weird Red"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Dark Green"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "BB4L"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Heart Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 101,
+    "name": "Bare Bones #101",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://101.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sorta orange"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Green Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Monocle"
+      }
+    ]
+  },
+  {
+    "edition": 102,
+    "name": "Bare Bones #102",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://102.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Domestic Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Blue Flames"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Blue Puffer"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Abe Lincoln Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cool Shades"
+      }
+    ]
+  },
+  {
+    "edition": 103,
+    "name": "Bare Bones #103",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://103.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Flames"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Open Blue Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Charged Up Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Robot Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 104,
+    "name": "Bare Bones #104",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://104.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Weird Red"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Looking"
+      }
+    ]
+  },
+  {
+    "edition": 105,
+    "name": "Bare Bones #105",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://105.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Broken Head"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Rick Hoodie"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pink Gum"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Looking"
+      }
+    ]
+  },
+  {
+    "edition": 106,
+    "name": "Bare Bones #106",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://106.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dirt"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Blood Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "UNC Jersey"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Long Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Normal"
+      }
+    ]
+  },
+  {
+    "edition": 107,
+    "name": "Bare Bones #107",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://107.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bony Ant"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bony Ant"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Bony Ant"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bony Ant"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bony Ant"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Bony Ant"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Bony Ant"
+      }
+    ]
+  },
+  {
+    "edition": 108,
+    "name": "Bare Bones #108",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://108.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "goblin green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Donald Suit"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Monocle"
+      }
+    ]
+  },
+  {
+    "edition": 109,
+    "name": "Bare Bones #109",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://109.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Goblin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Icy Blue"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Normal"
+      }
+    ]
+  },
+  {
+    "edition": 110,
+    "name": "Bare Bones #110",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://110.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Star Bones"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Star Bones"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Star Bones"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Star Bones"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Star Bones"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Star Bones"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Star Bones"
+      }
+    ]
+  },
+  {
+    "edition": 111,
+    "name": "Bare Bones #111",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://111.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sunset Sherbert"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Knicks Drip"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Charged Up Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Axe"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Normal"
+      }
+    ]
+  },
+  {
+    "edition": 112,
+    "name": "Bare Bones #112",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://112.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "The Chosen Avatar"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cool Shades"
+      }
+    ]
+  },
+  {
+    "edition": 113,
+    "name": "Bare Bones #113",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://113.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Donald Suit"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Open Skull"
+      }
+    ]
+  },
+  {
+    "edition": 114,
+    "name": "Bare Bones #114",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://114.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "domestic blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Pink Female"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Blue Puffer"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Headphones"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cool Shades"
+      }
+    ]
+  },
+  {
+    "edition": 115,
+    "name": "Bare Bones #115",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://115.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Trippy"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Blue Flames"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Red Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Red Stare"
+      }
+    ]
+  },
+  {
+    "edition": 116,
+    "name": "Bare Bones #116",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://116.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Yellow and Purple"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Donald Suit"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cool Shades"
+      }
+    ]
+  },
+  {
+    "edition": 117,
+    "name": "Bare Bones #117",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://117.jpg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Goblin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "BB4L"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Pirate Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Parrot"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Red Stare"
+      }
+    ]
+  },
+  {
+    "edition": 118,
+    "name": "Bare Bones #118",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://118.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "The Queen"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "The Queen"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "The Queen"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "The Queen"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "The Queen"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "The Queen"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "The Queen"
+      }
+    ]
+  },
+  {
+    "edition": 119,
+    "name": "Bare Bones #119",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://119.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Paparazzi"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Paparazzi"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Paparazzi"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Paparazzi"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Paparazzi"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Paparazzi"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Paparazzi"
+      }
+    ]
+  },
+  {
+    "edition": 120,
+    "name": "Bare Bones #120",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://120.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sorta Orange"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Cigaratte"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Normal"
+      }
+    ]
+  },
+  {
+    "edition": 121,
+    "name": "Bare Bones #121",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://121.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Long Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Phone"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "3D Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 122,
+    "name": "Bare Bones #122",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://122.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Pirate"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Brown Dreads"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Blunt"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Normal"
+      }
+    ]
+  },
+  {
+    "edition": 123,
+    "name": "Bare Bones #123",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://123.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lively Grey"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Red Stare"
+      }
+    ]
+  },
+  {
+    "edition": 124,
+    "name": "Bare Bones #124",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://124.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sunset Sherbert"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Gold Body"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Blonde"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cool Shades"
+      }
+    ]
+  },
+  {
+    "edition": 125,
+    "name": "Bare Bones #125",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://125.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Starry Night"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "3D Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 126,
+    "name": "Bare Bones #126",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://126.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Clouds"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Rockstar Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Mask"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Normal"
+      }
+    ]
+  },
+  {
+    "edition": 127,
+    "name": "Bare Bones #127",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://127.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Goblin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Rick Hoodie"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Robot Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 128,
+    "name": "Bare Bones #128",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://128.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Angry Mom"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Angry Mom"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Angry Mom"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Angry Mom"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Angry Mom"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Angry Mom"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Angry Mom"
+      }
+    ]
+  },
+  {
+    "edition": 129,
+    "name": "Bare Bones #129",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://129.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sunset Sherbert"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Open White Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Rockstar Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Normal"
+      }
+    ]
+  },
+  {
+    "edition": 130,
+    "name": "Bare Bones #130",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://130.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Clouds"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Goldie"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Heart Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 131,
+    "name": "Bare Bones #131",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://131.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Starry Night"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "UNC Jersey"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Helmet"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 132,
+    "name": "Bare Bones #132",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://132.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Park"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green Goblin"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Green Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Charged Up Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pink Gum"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 133,
+    "name": "Bare Bones #133",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://133.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Starry Night"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 134,
+    "name": "Bare Bones #134",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://134.jpg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "off yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Donald Suit"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Charged Up Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Mask"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 135,
+    "name": "Bare Bones #135",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://135.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sunset Sherbert"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "FC Barca Jersey"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Abe Lincoln"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pink Gum"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Red Saber"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "3D Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 136,
+    "name": "Bare Bones #136",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://136.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cool Shades"
+      }
+    ]
+  },
+  {
+    "edition": 137,
+    "name": "Bare Bones #137",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://137.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Beach"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "3D Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 138,
+    "name": "Bare Bones #138",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://138.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Broken Head"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Pirate"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Normal"
+      }
+    ]
+  },
+  {
+    "edition": 139,
+    "name": "Bare Bones #139",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://139.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Trippy"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green Goblin"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cool Shades"
+      }
+    ]
+  },
+  {
+    "edition": 140,
+    "name": "Bare Bones #140",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://140.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Domestic Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "BB4L Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Red Stare"
+      }
+    ]
+  },
+  {
+    "edition": 141,
+    "name": "Bare Bones #141",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://141.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Weird Red"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Charged up hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Mask"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "3D Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 142,
+    "name": "Bare Bones #142",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://142.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Clown"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "blue hoodie n chain"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Charging up Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Normal"
+      }
+    ]
+  },
+  {
+    "edition": 143,
+    "name": "Bare Bones #143",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://143.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sunset Sherbert"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Cyborg"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Green Warrior"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Abe Lincoln Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Blue Saber"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Normal"
+      }
+    ]
+  },
+  {
+    "edition": 144,
+    "name": "Bare Bones #144",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://144.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Open Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "OG Uzi Vert"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Phone"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Normal"
+      }
+    ]
+  },
+  {
+    "edition": 145,
+    "name": "Bare Bones #145",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://145.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lively Gray"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal Skeleton"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Mask"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Blunt"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Robot Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 146,
+    "name": "Bare Bones #146",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://146.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "American Pride"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Goldie"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Donald Suit"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Dreads"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Mic"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 147,
+    "name": "Bare Bones #147",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://147.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Starry Night"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Cyborg"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Security"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 148,
+    "name": "Bare Bones #148",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://148.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bronze"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Hoodie"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Bubble Tea"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Looking"
+      }
+    ]
+  },
+  {
+    "edition": 149,
+    "name": "Bare Bones #149",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://149.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Flames"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Cyborg"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Blunt"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "3D Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 150,
+    "name": "Bare Bones #150",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://150.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty 1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Blunt"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Looking"
+      }
+    ]
+  },
+  {
+    "edition": 151,
+    "name": "Bare Bones #151",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://151.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lively Gray"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "blue hoodie n chain"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Red Saber"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Aviators"
+      }
+    ]
+  },
+  {
+    "edition": 152,
+    "name": "Bare Bones #152",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://152.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Blue Skirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Blunt"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 153,
+    "name": "Bare Bones #153",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://153.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Domestic Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Female Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Donald Suit"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Abe Lincoln Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Normal"
+      }
+    ]
+  },
+  {
+    "edition": 154,
+    "name": "Bare Bones #154",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://154.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lively Gray"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "FC Barca Jersey"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 155,
+    "name": "Bare Bones #155",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://155.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sunset Sherbert"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Burning Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Skirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Looking"
+      }
+    ]
+  },
+  {
+    "edition": 156,
+    "name": "Bare Bones #156",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://156.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Weird Red"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Cyborg"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Darker Green Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Headphones"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 157,
+    "name": "Bare Bones #157",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://157.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Clouds"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Dark Green"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Rockstar Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Carties"
+      }
+    ]
+  },
+  {
+    "edition": 158,
+    "name": "Bare Bones #158",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://158.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Wrong place, wrong time"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Wrong place, wrong time"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Wrong place, wrong time"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Wrong place, wrong time"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Wrong place, wrong time"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Wrong place, wrong time"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Wrong place, wrong time"
+      }
+    ]
+  },
+  {
+    "edition": 159,
+    "name": "Bare Bones #159",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://159.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sunset Sherbert"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Dark Chocolate"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Knicks Drip"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Aviators"
+      }
+    ]
+  },
+  {
+    "edition": 160,
+    "name": "Bare Bones #160",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://160.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lively Gray"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "BB4L"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Open Skull"
+      }
+    ]
+  },
+  {
+    "edition": 161,
+    "name": "Bare Bones #161",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://161.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Blue Puffer"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pink Gum"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Monocle"
+      }
+    ]
+  },
+  {
+    "edition": 162,
+    "name": "Bare Bones #162",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://162.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Goblin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Dreads"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Aviators"
+      }
+    ]
+  },
+  {
+    "edition": 163,
+    "name": "Bare Bones #163",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://163.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Beach"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Dark Chocolate"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Brown Dreads"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Monocle"
+      }
+    ]
+  },
+  {
+    "edition": 164,
+    "name": "Bare Bones #164",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://164.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Weird Red"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Green Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Phone"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "3D Glasses"
+      }
+    ]
+  },
+  {
+    "edition": 165,
+    "name": "Bare Bones #165",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://165.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Death"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Death"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Death"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Death"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Death"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Death"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Death"
+      }
+    ]
+  },
+  {
+    "edition": 166,
+    "name": "Bare Bones #166",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://166.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Weird Red"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green Goblin"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Open White Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Mask"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Phone"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Normal"
+      }
+    ]
+  },
+  {
+    "edition": 167,
+    "name": "Bare Bones #167",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://167.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Starry Night"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Dark Green"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Pirate Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Heart Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 168,
+    "name": "Bare Bones #168",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://168.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Starry Night"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "UNC Jersey"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Green Glow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Normal"
+      }
+    ]
+  },
+  {
+    "edition": 169,
+    "name": "Bare Bones #169",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://169.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Flame"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Open Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Monocle"
+      }
+    ]
+  },
+  {
+    "edition": 170,
+    "name": "Bare Bones #170",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://170.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Arctic Explorer"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Arctic Explorer"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Arctic Explorer"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Arctic Explorer"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Arctic Explorer"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Arctic Explorer"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Arctic Explorer"
+      }
+    ]
+  },
+  {
+    "edition": 171,
+    "name": "Bare Bones #171",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://171.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Plato"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Plato"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Plato"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Plato"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Plato"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Plato"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Plato"
+      }
+    ]
+  },
+  {
+    "edition": 172,
+    "name": "Bare Bones #172",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://172.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "American Pride"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Blue Puffer"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "OG Uzi Vert"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Aviators"
+      }
+    ]
+  },
+  {
+    "edition": 173,
+    "name": "Bare Bones #173",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://173.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Flames"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Burning Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "VR Goggles"
+      }
+    ]
+  },
+  {
+    "edition": 174,
+    "name": "Bare Bones #174",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://174.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Viking"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Viking"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Viking"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Viking"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Viking"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Viking"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Viking"
+      }
+    ]
+  },
+  {
+    "edition": 175,
+    "name": "Bare Bones #175",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://175.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LSD Head"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "LSD Head"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "LSD Head"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "LSD Head"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "LSD Head"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "LSD Head"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "LSD Head"
+      }
+    ]
+  },
+  {
+    "edition": 176,
+    "name": "Bare Bones #176",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://176.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Goblin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green Goblin"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Rick Hoodie"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Blunt"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cool Shades"
+      }
+    ]
+  },
+  {
+    "edition": 177,
+    "name": "Bare Bones #177",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://177.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Trippy"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Phone"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 178,
+    "name": "Bare Bones #178",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://178.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Clouds"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Green Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Red Saber"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cool Shades"
+      }
+    ]
+  },
+  {
+    "edition": 179,
+    "name": "Bare Bones #179",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://179.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pink Gum"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Heart Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 180,
+    "name": "Bare Bones #180",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://180.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Back from the dead"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Back from the dead"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Back from the dead"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Back from the dead"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Back from the dead"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Back from the dead"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Back from the dead"
+      }
+    ]
+  },
+  {
+    "edition": 181,
+    "name": "Bare Bones #181",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://181.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Goblin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Open Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Heart Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 182,
+    "name": "Bare Bones #182",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://182.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sorta Orange"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Donald Suit"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Orange Beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Monocle"
+      }
+    ]
+  },
+  {
+  "edition": 183,
+  "name": "Bare Bones #183",
+  "creator": "Albert Bogoraz",
+  "category": "Collectible",
+  "description": "222 NFTs that are going to make you rich",
+  "image": "ipfs://183.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Off Yellow"
+    },
+    {
+      "trait_type": "Skeleton",
+      "value": "Female Skull"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Black Hood"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ciggy"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Phone"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Cyborg"
+    }
+  ]
+},
+{
+    "edition": 184,
+    "name": "Bare Bones #184",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://184.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Rick Hoodie"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Monocle"
+      }
+    ]
+  },
+  {
+    "edition": 185,
+    "name": "Bare Bones #185",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://185.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pinky Dots"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bright Purple"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Charging up Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Monocle"
+      }
+    ]
+  },
+  {
+    "edition": 186,
+    "name": "Bare Bones #186",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://186.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sorta Orange"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Dark Green"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Rick Hoodie"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Orange beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Carties"
+      }
+    ]
+  },
+  {
+    "edition": 187,
+    "name": "Bare Bones #187",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://187.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Trippy"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Brown Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "FC Barca Jersey"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty "
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Red Saber"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 188,
+    "name": "Bare Bones #188",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://188.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bone Droid"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bone Droid"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Bone Droid"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bone Droid"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bone Droid"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Bone Droid"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Bone Droid"
+      }
+    ]
+  },
+  {
+    "edition": 189,
+    "name": "Bare Bones #189",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://189.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Starry Night"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Cyborg"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Mask"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 190,
+    "name": "Bare Bones #190",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://190.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lively Gray"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bright Purple"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 191,
+    "name": "Bare Bones #191",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://191.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Goblin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Red Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Helmet"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Heart Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 192,
+    "name": "Bare Bones #192",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://192.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lively Gray"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Goldie"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Donald Suit"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cool Shades"
+      }
+    ]
+  },
+  {
+    "edition": 193,
+    "name": "Bare Bones #193",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://193.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Cyborg"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Green Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Brown Dreads"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 194,
+    "name": "Bare Bones #194",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://194.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "American Pride"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Yellow and Purple"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Pirate"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Long Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ciggy"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 195,
+    "name": "Bare Bones #195",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://195.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off Yellow"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Yellow and Purple"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Donald Suit"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Headphones"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Mask"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Phone"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Aviators"
+      }
+    ]
+  },
+  {
+    "edition": 196,
+    "name": "Bare Bones #196",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://196.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bloody"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Blunt"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Monocle"
+      }
+    ]
+  },
+  {
+    "edition": 197,
+    "name": "Bare Bones #197",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://197.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Flames"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green Goblin"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "black hoodie n chain"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Carties"
+      }
+    ]
+  },
+  {
+    "edition": 198,
+    "name": "Bare Bones #198",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://198.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Goblin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Headphones"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cool Shades"
+      }
+    ]
+  },
+  {
+    "edition": 199,
+    "name": "Bare Bones #199",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://199.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Weird Red"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Cyborg"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "FC Barca Jersey"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Brown Dreads"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Phone"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 200,
+    "name": "Bare Bones #200",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://200.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Brown Skeleton"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Donald Suit"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Gum"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 201,
+    "name": "Bare Bones #201",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://201.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sunset Sherbert"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bright Purple"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Dreads"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Phone"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Monocle"
+      }
+    ]
+  },
+  {
+    "edition": 202,
+    "name": "Bare Bones #202",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://202.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Goblin"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Dark Chocolate"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "The Chosen Avatar"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 203,
+    "name": "Bare Bones #203",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://203.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Open Mind"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Open Mind"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Open Mind"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Open Mind"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Open Mind"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Open Mind"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Open Mind"
+      }
+    ]
+  },
+  {
+    "edition": 204,
+    "name": "Bare Bones #204",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://204.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "domestic blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bright Purple"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Robot Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 205,
+    "name": "Bare Bones #205",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://205.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Angelic Bones"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Angelic Bones"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Angelic Bones"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Angelic Bones"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Angelic Bones"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Angelic Bones"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Angelic Bones"
+      }
+    ]
+  },
+  {
+    "edition": 206,
+    "name": "Bare Bones #206",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://206.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sorta Orange"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Pink Female Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Looking"
+      }
+    ]
+  },
+  {
+    "edition": 207,
+    "name": "Bare Bones #207",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://207.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Cyborg"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Brown Dreads"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pink Gum"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 208,
+    "name": "Bare Bones #208",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://208.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "On the Moon"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "On the Moon"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "On the Moon"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "On the Moon"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "On the Moon"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "On the Moon"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "On the Moon"
+      }
+    ]
+  },
+  {
+    "edition": 209,
+    "name": "Bare Bones #209",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://209.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "American Pride"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bloody"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Donald Suit"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 210,
+    "name": "Bare Bones #210",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://210.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Evil to the Bone"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Evil to the Bone"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Evil to the Bone"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Evil to the Bone"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Evil to the Bone"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Evil to the Bone"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Evil to the Bone"
+      }
+    ]
+  },
+  {
+    "edition": 211,
+    "name": "Bare Bones #211",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://211.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Silver."
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Light Brown"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pink Gum"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Blunt"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Robot Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 212,
+    "name": "Bare Bones #212",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://212.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bronze"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Grey Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Long Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Looking"
+      }
+    ]
+  },
+  {
+    "edition": 213,
+    "name": "Bare Bones #213",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://213.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sunset Sherbert"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Half Purple and White"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Blue Puffer"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Charged up Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Red Laser Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 214,
+    "name": "Bare Bones #214",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://214.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Goblin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Blue Laser Eyes"
+      }
+    ]
+  },
+  {
+    "edition": 215,
+    "name": "Bare Bones #215",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://215.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Starry Night"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Bright Purple"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Axe"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Red Stare"
+      }
+    ]
+  },
+  {
+    "edition": 216,
+    "name": "Bare Bones #216",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://216.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Domestic Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Female Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Hood"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Pink Glow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pink Gum"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money Bag"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Normal"
+      }
+    ]
+  },
+  {
+    "edition": 217,
+    "name": "Bare Bones #217",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://217.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Goblin Green"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Blue Puffer"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Charged up Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Mask"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Glizzy"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Normal"
+      }
+    ]
+  },
+  {
+    "edition": 218,
+    "name": "Bare Bones #218",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://218.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Blue Puffer"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Charged up Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Phone"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 219,
+    "name": "Bare Bones #219",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://219.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YE"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "YE"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "YE"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "YE"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "YE"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "YE"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "YE"
+      }
+    ]
+  },
+  {
+    "edition": 220,
+    "name": "Bare Bones #220",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://220.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "808s"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "808s"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "808s"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "808s"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "808s"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "808s"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "808s"
+      }
+    ]
+  },
+  {
+    "edition": 221,
+    "name": "Bare Bones #221",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://221.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lively Gray"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Goldie"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Orange Beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  },
+  {
+    "edition": 222,
+    "name": "Bare Bones #222",
+    "creator": "Albert Bogoraz",
+    "category": "Collectible",
+    "description": "222 NFTs that are going to make you rich",
+    "image": "ipfs://222.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Starry Night"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Green Skull"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Red Shirt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Empty"
+      }
+    ]
+  }
+]
